@@ -17,12 +17,12 @@ you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
 *******************
-Release Information
+Sobre o Projeto
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+Este projeto foi desenvolvido especialmente para o **17º Congresso de Farmácia de Minas Gerais**, com o objetivo de facilitar a **inscrição, gestão de avisos, 
+participantes e comunicação interna** durante o evento. Trata-se de uma aplicação web moderna, construída com tecnologias amplamente utilizadas no mercado, 
+como **PHP**, **MySQL**, **CodeIgniter**, **HTML**, **CSS** e **JavaScript**.
 
 **************************
 Changelog and New Features
