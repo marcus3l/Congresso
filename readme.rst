@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+Projeto - Sistema para o 17º Congresso de Farmácia de Minas Gerais
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
