@@ -2,6 +2,12 @@
 Projeto - Sistema para o 17º Congresso de Farmácia de Minas Gerais
 ###################
 
+## Sobre o Projeto
+
+Este projeto foi desenvolvido especialmente para o **17º Congresso de Farmácia de Minas Gerais**, com o objetivo de facilitar a **gestão de avisos, participantes e comunicação interna** durante o evento. Trata-se de uma aplicação web moderna, construída com tecnologias amplamente utilizadas no mercado, como **PHP**, **MySQL**, **CodeIgniter**, **HTML**, **CSS** e **JavaScript**.
+
+### Tecnologias Utilizadas
+
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
 much faster than you could if you were writing code from scratch, by providing
